@@ -43,7 +43,7 @@ error-translator = "error_translator.cli:main"
 
 [project.urls]
 Homepage = "https://github.com/teto-developer/transerror"
-Issues = "https://github.com/yourusername/transerror/issues"
+Issues = "https://github.com/teto-developer/transerror/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/error_translator"]
